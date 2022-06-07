@@ -1,4 +1,4 @@
-Sou estudante de Ciências Sociais na UFMG, estou no último período do curso, tenho conhecimento em programação e analise de dados adquiridos tanto no curso da UFMG como autodidacta em cursos na Internet gratuitos e pagos. Procuro um emprego de preferência remoto, onde posso utilizar meus conhecimentos em informática e ciências sociais. Falo bem inglês, porem não fluído, tenho conhecimento nas linguagens python, php, c, e html e muito comprometimento e dedicação nos desafios que me proponho.
+Tenho conhecimento em programação e analise de dados adquiridos tanto no curso da UFMG como autodidacta em cursos na Internet gratuitos e pagos. Procuro um emprego de preferência remoto, onde posso utilizar meus conhecimentos em programação. Falo bem inglês, tenho conhecimento nas linguagens python, php, c, e html e muito comprometimento e dedicação nos desafios que me proponho.
 
 
 Trabalhos realizados como programador web:
